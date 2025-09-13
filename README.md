@@ -40,7 +40,7 @@ returnType operator op (parameter_list) {
 
 This program demonstrates constructor overloading in C++, where multiple constructors are defined with the same name but different parameter lists. One constructor adds two integers, another adds two floats, and the third adds three integers. The compiler decides which constructor to invoke based on the arguments passed.
 
-# Algorithm
+### Algorithm
 Start the program.
 Define a class Add with three constructors: one that takes two integers and prints their sum, one that takes two floats and prints their sum, and one that takes three integers and prints their sum.
 In the main() function: create object a1 with two integer arguments (calls integer constructor), object a2 with two float arguments (calls float constructor), and object a3 with three integer arguments (calls 3-parameter constructor).
