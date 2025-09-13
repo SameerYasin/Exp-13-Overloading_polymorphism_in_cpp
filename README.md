@@ -1,6 +1,6 @@
 # Exp-13-Overloading_polymorphism_in_cpp
 
-# OVERLOADING IN CPP
+## OVERLOADING IN CPP
 
 ## Aim  
 I studied and implemented types of Overloading.
@@ -51,7 +51,7 @@ End the program.
 
 This program demonstrates constructor overloading using a class Interest. Two constructors are defined: one to calculate simple interest using integer inputs, and another to calculate compound interest using double inputs.
 
-# Algorithm
+### Algorithm
 Start the program.
 Define a class Interest with two constructors:
 
@@ -66,7 +66,7 @@ End the program.
 
 This program demonstrates function overloading where the same function name Concatenate is defined with different parameter types. One version takes two strings, the other takes two characters. The compiler chooses based on the arguments passed.
 
-# Algorithm
+### Algorithm
 Start the program.
 Define a class Concat with two functions named Concatenate:
 
@@ -83,7 +83,7 @@ End the program.
 
 This program demonstrates operator overloading where the * operator is redefined for class Box. The overloaded operator compares volumes of two Box objects and returns true if the first box is larger.
 
-# Algorithm
+### Algorithm
 Start the program.
 Define a class Box with three data members: length, width, height.
 Create a parameterized constructor to initialize dimensions.
@@ -98,7 +98,7 @@ End the program.
 
 This program demonstrates operator overloading where the + operator is redefined for class Number. The overloaded + operator adds the values of two Number objects and returns a new Number object.
 
-# Algorithm
+### Algorithm
 Start the program.
 Define a class Number with a data member value.
 Create a parameterized constructor to initialize value.
